@@ -25,7 +25,7 @@ Somos una *__asociación__* de los animales. Fuck ~maltrato~ fuck sapos.
 ![alt][niklas]
 
 
-[niklas]:niklas.jpg
+
 
 
 
@@ -40,3 +40,8 @@ class Ladra{
 ```
 -----
 <img width="80" src="https://www.cesarsway.com/wp-content/uploads/2021/07/barking-dog-is-on-a-walk-in-grass.jpg">
+
+## Banner
+![alt][banner]
+[banner]:banner.svg
+[niklas]:niklas.jpg
