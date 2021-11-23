@@ -38,4 +38,5 @@ class Ladra{
    }
   }
 ```
+-----
 <img width="80" src="https://www.cesarsway.com/wp-content/uploads/2021/07/barking-dog-is-on-a-walk-in-grass.jpg">
