@@ -26,3 +26,12 @@ Somos una *__asociación__* de los animales. Fuck ~maltrato~ fuck sapos.
 
 
 [niklas]:niklas.jpg
+
+```
+class Ladra{
+  public static void main(String[] arg){
+    System.out.println("Guau");
+   }
+  }
+```
+<img width="80" src="https://www.cesarsway.com/wp-content/uploads/2021/07/barking-dog-is-on-a-walk-in-grass.jpg">
