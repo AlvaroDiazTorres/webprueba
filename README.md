@@ -43,5 +43,7 @@ class Ladra{
 
 ## Banner
 ![alt][banner]
+
 [banner]:banner.svg
+
 [niklas]:niklas.jpg
